@@ -1,0 +1,5 @@
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Release\Lab2.exe.config
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Release\Lab2.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Release\Lab2.pdb
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Release\Lab2.exe
+c:\users\paperspace\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Release\Lab2.pdb
